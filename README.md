@@ -9,4 +9,4 @@ FEATURES
 HOW TO RUN
 Clone the repository:
 
-    https://github.com/harshareethu/mini-project-tic-tac-toe-game.git
+        https://github.com/harshareethu/mini-project-tic-tac-toe-game.git
